@@ -147,7 +147,7 @@ Models trained are:
 <div align="justify">
 All in all, we can make use of predictive models to predict
 audience sentiment based on their review comments. For this purpose,
-**logistic regression**
+<b>logistic regression</b>
 is the best performing model as it has the 
 highest accuracy with fairly low training and testing time.
 </div>
