@@ -146,18 +146,15 @@ Models trained are:
 
 <div align="justify">
 All in all, we can make use of predictive models to predict
-audience sentiment based on their review comments. For this purpose, 
-**logistic regression** is the best performing model as it has the 
+audience sentiment based on their review comments. For this purpose,
+**logistic regression**
+is the best performing model as it has the 
 highest accuracy with fairly low training and testing time.
 </div>
-
-  ------------------- --------------------- ------------------------- ----------------
-                      Models                                          
-                      Logistic Regression   Multinomial Naive Bayes   Neural Network
-  Accuracy            0.8864                0.8537                    0.8795
-  Training Time (s)   6.706810              0.396690                  509.5316
-  Testing Time (s)    0.146578              0.141874                  0.1730
-  ------------------- --------------------- ------------------------- ----------------
+                                                                
+  Accuracy            0.8864                
+  Training Time (s)   6.706810              
+  Testing Time (s)    0.146578             
 
 
 ## Conclusion 
