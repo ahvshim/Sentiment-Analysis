@@ -11,9 +11,15 @@ algorithms to analyze the text of the reviews and classify
 them as either positive or negative.The models used are 
 **logistic regression, multinomial naive bayes, neural network.**
 
-## We found that our model was able to predict the sentiment of the reviews with a high degree of accuracy. Additionally, we also identified some common themes and words that were more prevalent in positive or negative reviews that becomes indicator of the audiences' sentiment.
-
-## Overall, our study provides valuable insights into the sentiment of movie audiences and can be used to inform the marketing and promotion of films.
+<div align="justify">We found that our model was able to predict the sentiment of the 
+reviews with a high degree of accuracy. Additionally, we also 
+identified some common themes and words that were more prevalent 
+in positive or negative reviews that becomes indicator of the 
+audiences' sentiment.</div>
+<div>
+<div align="justify">Overall, our study provides valuable insights into the sentiment
+of movie audiences and can be used to inform the marketing and 
+promotion of films.</div>
 
 # Content List {#content-list style="page-break-before:always; "}
 
